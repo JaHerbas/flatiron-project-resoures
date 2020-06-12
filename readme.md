@@ -8,7 +8,7 @@
 
 
 2. Add your teammates as collaborators
-  - Settings > Manage Access
+  - Settings > Manage Access > Invite a Collaborator
   - Each other teammate accepts invitation sent to email
 
 
