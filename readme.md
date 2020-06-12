@@ -80,4 +80,8 @@ There are several ways to **merge branches**, but one of the easier/most _visual
 - When you **submit** the pull request, you can then follow the steps to delete the now-redundant branch.
 
 
+### Markdown Cheatsheet
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 When you've put all new changes onto one branch, you can do the same to merge your final branch to `master` and your project is complete! Congratulations!
